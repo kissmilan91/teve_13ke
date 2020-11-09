@@ -6,18 +6,22 @@ body{
 }
 
 a:link{
+	text-decoration: none;
 	color: orange;
 }
 
 a:visited{
+	text-decoration: none;
 	color: orange;
 }
 
 a:hover{
+	text-decoration: none;
 	color: orange;
 }
 
 a:active{
+	text-decoration: none;
 	color: orange;
 }
 
@@ -58,17 +62,17 @@ input{
 }
 
 #romhanyi{
-	text-align: left;
+	text-align: right;
 	font-size: 11px;
 	font-style: italic;
 }
 
-#tevekep{
-	background-position: left;
+.tevekep{
+	float: right;
 }
 
 #jobbra{
-	text-align: left;
+	text-align: right;
 }
 
 #eredmeny{
